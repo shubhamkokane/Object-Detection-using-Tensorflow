@@ -1,12 +1,5 @@
 # Tensorflow Object Detection API Example With Custom Dataset
 
-##Elephant Detector App
-
-[TensorFlow's Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
-
------------------------------------------------------------------------------------------------------------------------------------------
-## Steps to be followed for this app to be working on windows:
-
 ### Step 1:
 
 => Install Tensorflow latest version using the below command.
