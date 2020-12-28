@@ -94,14 +94,3 @@ python object_detection/builders/model_builder_test.py
 =>Go to the data folder of this repository and follow the instructions given in the DataSet_Creation_Procedure.md file.
   and create the dataset which could be feed to the Tensorflow object detection Api.
 
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-	
-### Some of the Limitations of my App:
-
-=> Since I trained this with less data set and for only 40 minutes the accuracy will be sometimes less.But if you train with large dataset and with huge GPU power then accuracy will be high.
-
-=> I trained to detect only elephant. similarly we could train with defferent class of images to detect different objects.
-
-
-
